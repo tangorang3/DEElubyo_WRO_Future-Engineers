@@ -23,7 +23,9 @@ Introducing the DEElubyo bot, a self-driving robot made from Arduino components 
 
 **Coder:** Emmanuel Kristoffer O. Jacob
 
-**Researcher:** Enraig G. Gacosta     
+**Visuals:** Enraig G. Gacosta     
+
+![Visuals](https://github.com/tangorang3/DEElubyo_WRO_Future-Engineers/blob/7b6dc6492f2654bf1fc6276b5eca02b29be4e6fe/t-photos/449436044_488555863635968_3132310480490064627_n.png)
 
 ## Team Photo
 
