@@ -37,6 +37,8 @@ Introducing the DEElubyo bot, a self-driving robot made from Arduino components 
 
 **Schematic Diagram**
 
+https://github.com/tangorang3/DEElubyo_WRO_Future-Engineers/blob/d3efb20e911b70922056959647fb894ffa693feb/schemes/Screenshot%202024-07-08%20141758.png
+
 **Actual Model**
 
 ## Materials (Components)
